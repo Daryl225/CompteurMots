@@ -7,7 +7,6 @@ public class Compteur {
         int totalMots = 0;
 
         try {
-            // 🔹 Remplace "montexte.txt" par le nom de ton fichier texte
             File fichier = new File("Test.txt");
             Scanner lecteur = new Scanner(fichier);
 
