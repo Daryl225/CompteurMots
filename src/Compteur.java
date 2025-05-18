@@ -8,7 +8,7 @@ public class Compteur {
 
         try {
             // 🔹 Remplace "montexte.txt" par le nom de ton fichier texte
-            File fichier = new File("Test.txt");
+            File fichier = new File("TestExercice3.txt");
             Scanner lecteur = new Scanner(fichier);
 
             while (lecteur.hasNextLine()) {

@@ -1,0 +1,3 @@
+Bonjour et bienvenue dans ce test.
+Ce fichier contient plusieurs lignes,
+chacune avec un certain nombre de mots.
