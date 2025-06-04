@@ -10,8 +10,8 @@ Ce projet est une petite application Java qui lit un fichier texte et affiche le
 
 ## Fichiers inclus
 
-- `CompteurDeMots.java` : Code source principal
-- `montexte.txt` : Exemple de fichier texte à analyser
+- `Compteur.java` : Code source principal
+- `text.txt` : Exemple de fichier texte à analyser
 
 ---
 
@@ -20,6 +20,6 @@ Ce projet est une petite application Java qui lit un fichier texte et affiche le
 ### Compilation et Execution
 
 ```bash
-javac CompteurDeMots.java
+javac Compteur.java
 
-CompteurDeMots.java
+Compteur.java
